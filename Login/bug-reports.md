@@ -13,7 +13,7 @@ This document lists identified bugs during manual testing of the login functiona
 - **Severity**: Medium
 - **Steps to Reproduce**:
   1. Open browser.
-  2. Navigate directly to [See BUG-001](https://github.com/robbynurdiansyah/manual-qa-orangehrm/blob/main/Login/bug-reports.md).
+  2. Navigate directly to [OrangeHRM Demo Site](https://opensource-demo.orangehrmlive.com/web/index.php/auth/login)
   3. Observe the result.
 - **Suggested Fix**: Implement proper authentication check with redirect to login when accessing protected pages without session.
 
