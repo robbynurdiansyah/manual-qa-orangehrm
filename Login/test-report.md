@@ -1,5 +1,5 @@
 
-# 🧾 Test Report – OrangeHRM Login & Dashboard
+# 🧾 Test Report – OrangeHRM Login
 
 **Tested By**: Robby Bambang Nurdiansyah
 **Date**: July 30, 2025  
