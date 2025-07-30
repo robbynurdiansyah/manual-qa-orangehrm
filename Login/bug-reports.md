@@ -1,4 +1,4 @@
-# 🐞 Bug Reports – Manual QA for OrangeHRM Login
+# 🐞 Bug Reports – Manual QA - OrangeHRM Login
 
 This document lists identified bugs during manual testing of the login functionality in OrangeHRM.
 
